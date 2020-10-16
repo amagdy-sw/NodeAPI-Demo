@@ -1,6 +1,6 @@
 # NodeJs API Demo
 
-This project is an example for Udacity students to demonstrate using API in nodejs and Students are able to add movies to node server, get movies actually in node server now. No database is used all data is stored as an array in server memory.  
+This project is an example for Udacity students to demonstrate using API in nodejs and Students are able to add movies to node server, get movies actually in node server now. No database is used. All data is stored as an array in server memory.  
 
 ## Getting Started
 
